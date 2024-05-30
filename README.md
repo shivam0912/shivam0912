@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivam_19yy" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_19yy?logo=twitter&style=for-the-badge" alt="shivam_19yy" /></a> </p>
 
-- 🔭 I’m currently working on **Keep Notes**
+- 🔭 I’m currently working on **Code Editor**
 
 - 🌱 I’m currently learning **React**
 
